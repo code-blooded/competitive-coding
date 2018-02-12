@@ -2,7 +2,7 @@
 Note: All the questions will be solved in c++
 <h3>INDEX</h3>
 <ul>
-<li> Linked List </li>
+<li> <a href="https://github.com/code-blooded/competitive-coding/tree/master/linked-list"> Linked List </a> </li>
 <li> Array </li>
 <li> Stack </li>
 <li> Queue </li>
