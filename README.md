@@ -1,4 +1,4 @@
-<h1><b>Data Structres and Algorithm</b></h1>
+<h1><b>Data Structres and Algorithms</b></h1>
 <h3>INDEX</h3>
 <ul>
 <li> <a href="https://github.com/code-blooded/competitive-coding/tree/master/linked-list"> Linked List </a> </li>
