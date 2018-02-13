@@ -53,7 +53,7 @@ int main(){
     node* temp=NULL;
     int value,n;
     
-    cout<<"Enter the no of numbers: ";
+    cout<<"Enter the no of numbers: \n";
     cin>>n;
     cout<<"Enter the numbers\n";
     for(int i=0;i<n;i++){
@@ -76,7 +76,7 @@ int main(){
     cout<<"|||\n";
     
     int m;
-    cout<<"Enter the index(0-based) of the node to be deleted: ";
+    cout<<"Enter the index(0-based) of the node to be deleted: \n";
     cin>>m;
     head = delNode(head,m);
     
