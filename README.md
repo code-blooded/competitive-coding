@@ -1,5 +1,4 @@
-<h1><b>Basic competitive coding questions</b></h1>
-Note: All the questions will be solved in c++
+<h1><b>Data Structres and Algorithm</b></h1>
 <h3>INDEX</h3>
 <ul>
 <li> <a href="https://github.com/code-blooded/competitive-coding/tree/master/linked-list"> Linked List </a> </li>
