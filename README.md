@@ -19,6 +19,7 @@
 </ul>
 <h3>Algorithms Index</h3>
 <ul>
+<li> <a href="https://github.com/code-blooded/data-structures-and-algorithms/tree/master/math-algorithms"> Math Algorithms </a> </li>
 <li> Searching and Sorting </li>
 <li> Greedy </li>
 <li> Dynamic Programming </li>
