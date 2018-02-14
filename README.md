@@ -23,7 +23,7 @@
 <li> Greedy </li>
 <li> Dynamic Programming </li>
 <li> Divide and Conquer </li>
-<li> Bit Manipulation </li>
+<li> <a href="https://github.com/code-blooded/data-structures-and-algorithms/tree/master/bit-manipulation"> Bit Manipulation </a> </li>
 <li> Graph Algorithms </li>
 <li> Geometric Algorithms </li>
 <li> Backtrack </li>
