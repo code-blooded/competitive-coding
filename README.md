@@ -5,7 +5,7 @@
 <li> Array </li>
 <li> Stack </li>
 <li> Queue </li>
-<li> Binary Tree </li>
+<li> <a href="https://github.com/code-blooded/data-structures-and-algorithms/tree/master/binary-tree"> Binary Tree </a> </li>
 <li> Binary Search Tree </li>
 <li> Heap </li>
 <li> Hashing </li>
