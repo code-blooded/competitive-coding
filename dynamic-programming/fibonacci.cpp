@@ -2,7 +2,7 @@
 
 /**
 *
-*	This program aims at finding the nth Fibonacci using,
+*   This program aims at finding the nth Fibonacci using,
 *   1) Memoization 
 *   2) Bottom-Up
 *   3) Recursion 
