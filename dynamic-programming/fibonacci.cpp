@@ -47,6 +47,7 @@ int main(){
     
     int n;
     cin>>n;
+    // note: fibonacci grows rapidly
     
     cout<<fib_recursion(n)<<endl;
     cout<<fib_memo(n)<<endl;
