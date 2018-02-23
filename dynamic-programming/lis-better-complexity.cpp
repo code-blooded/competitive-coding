@@ -2,7 +2,7 @@
 
 /**
 *
-*	This program aims at finding the longest increasing subsequence(not subarray) in an array.
+*   This program aims at finding the longest increasing subsequence(not subarray) in an array.
 * 
 *   The Longest Increasing Subsequence (LIS) problem is to find the length of the longest subsequence
 *   of a given sequence such that all elements of the subsequence are sorted in increasing order.
@@ -36,7 +36,7 @@ int ceilBinarySearch(int L[],int n,int x){
 
 // The complexity of this solution is O(nlogn).
 int LIS(int arr[],int n){
-    // L[i] denotes the end of lis of length i
+    // L[i] denotes the end of longest increasing subsequense of length i
     int L[n+1]={0};  
     int len = 1;
     // base case
