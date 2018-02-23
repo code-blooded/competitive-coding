@@ -29,7 +29,7 @@ int ceilBinarySearch(int L[],int n,int x){
         mid = low + (high-low)/2;
         if(L[mid]<x)                low = mid+1;
         else if(L[mid]>x)           high = mid;
-        else                        low = mid;
+        else                        low = mid+1;
     }
     return high;
 }
