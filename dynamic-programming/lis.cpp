@@ -2,7 +2,7 @@
 
 /**
 *
-*	This program aims at finding the longest increasing subsequence(not subarray) in an array.
+*   This program aims at finding the longest increasing subsequence(not subarray) in an array.
 * 
 *   The Longest Increasing Subsequence (LIS) problem is to find the length of the longest subsequence
 *   of a given sequence such that all elements of the subsequence are sorted in increasing order.
