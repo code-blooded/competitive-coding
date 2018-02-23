@@ -20,9 +20,9 @@
 <h3>Algorithms Index</h3>
 <ul>
 <li> <a href="https://github.com/code-blooded/data-structures-and-algorithms/tree/master/math-algorithms"> Math Algorithms </a> </li>
-<li> Searching and Sorting </li>
+<li> <a href="https://github.com/code-blooded/data-structures-and-algorithms/tree/master/search-sort"> Searching and Sorting </a> </li>
 <li> Greedy </li>
-<li> <a href="https://github.com/code-blooded/data-structures-and-algorithms/tree/master/dynamic-programming"> Dynamic Programming </li>
+<li> <a href="https://github.com/code-blooded/data-structures-and-algorithms/tree/master/dynamic-programming"> Dynamic Programming</a></li>
 <li> Divide and Conquer </li>
 <li> <a href="https://github.com/code-blooded/data-structures-and-algorithms/tree/master/bit-manipulation"> Bit Manipulation </a> </li>
 <li> Graph Algorithms </li>
